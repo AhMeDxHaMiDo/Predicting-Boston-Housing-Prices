@@ -36,8 +36,8 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 This project contains three files:
 
-- `boston_housing.ipynb`: This is the main file where you will be performing your work on the project.
-- `housing.csv`: The project dataset. You'll load this data in the notebook.
+- `boston_housing.ipynb`: This is the main file where you will find the work on the project.
+- `housing.csv`: The project dataset. Which is loaded in the notebook.
 - `visuals.py`: This Python script provides supplementary visualizations for the project. Do not modify.
 
 ### Code
