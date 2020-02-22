@@ -7,7 +7,7 @@ This project is part of Udacity Machine Learning Nanodegree projects.
 3. [Prerequisites](#prerequisites)
 4. [Starting the Project](#starting-the-project)
     1. [Code](#code)
-    2. [Run](#Run)
+    2. [Run](#run)
     3. [Data](#data)
 
 
